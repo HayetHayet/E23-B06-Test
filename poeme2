@@ -1,0 +1,6 @@
+using systeme;
+classe poeme2
+{static void main()
+{ console.writeline( "le ciel est bleu");
+}
+}
